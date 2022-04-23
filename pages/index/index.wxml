@@ -1,0 +1,21 @@
+<view class="page" style="position: relative; left: 3rpx; top: -75rpx; width: 765rpx; height: 446rpx; display: block; box-sizing: border-box">
+    <view style="position: relative; width: 750rpx; background: #d3d3d3; height: 565rpx; left: 0rpx; top: -113rpx; display: block; box-sizing: border-box">
+        <image style="position: relative; width: 748rpx; height: 392rpx; display: inline-block; box-sizing: border-box; left: -12rpx; top: 179rpx" src="https://636c-cloud1-0g7dhzju3b4d82fc-1310369014.tcb.qcloud.la/%E5%AE%A2%E5%8E%85.jpg?sign=756b1fffab31f0f247c76eb4d72e6dd2&t=1650514152" />
+        <image style="position: relative; width: 268rpx; height: 312rpx; display: inline-block; box-sizing: border-box; left: 5rpx; top: -90rpx" src="https://636c-cloud1-0g7dhzju3b4d82fc-1310369014.tcb.qcloud.la/%E6%9F%AF%E5%9F%BA.png?sign=2d2024d2e4790f4b366b9bfcae335c1f&t=1650515213" />
+        <image style="position: relative; width: 207rpx; height: 150rpx; display: inline-block; box-sizing: border-box; left: 8rpx; top: -111rpx" src="https://636c-cloud1-0g7dhzju3b4d82fc-1310369014.tcb.qcloud.la/%E5%8D%A1%E9%80%9A%E6%89%8B%E7%BB%98%E5%AE%A0%E7%89%A9%E7%8C%AB%E7%B2%AE.png?sign=36034ba27fc953bdb46673cd5c71d66a&t=1650515249" />
+        <image style="position: relative; left: 429rpx; top: -387rpx; width: 354rpx; height: 247rpx; display: inline-block; box-sizing: border-box" src="https://636c-cloud1-0g7dhzju3b4d82fc-1310369014.tcb.qcloud.la/%E5%A4%A7%E6%A9%98.png?sign=261f7a38fbb34b25e823206469c2bc84&t=1650515340" />
+    </view>
+    <view class="page__bd page__bd_spacing" style="width: 750rpx; height: 115rpx; display: block; box-sizing: border-box">
+        <button class="weui-btn" type="primary" bindtap='onClick_feeding' style="position: relative; left: 0rpx; top: -214rpx">
+            喂食
+        </button>
+        <button class="cu-btn.round bg-olive" style="border: 2px solid; position: relative; left: 66rpx; top: -111rpx; width: 619rpx; height: 150rpx; display: inline-flex; box-sizing: border-box" bindtap='onClick_feeding'>
+            <text class="text-xl" selectable="false" space="false" decode="false" style="width: 324rpx; height: 216rpx;font-size: xx-large">
+                喂食
+            </text>
+        </button>
+    </view>
+    <view class="weui-footer weui-footer_fixed-bottom">
+        <view class="weui-footer__text">Copyright ©宠物智能管家</view>
+    </view>
+</view>
